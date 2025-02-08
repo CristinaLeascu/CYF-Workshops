@@ -22,5 +22,7 @@ a) what will `result1` evaluate to? Explain your answer
 b) What will `result2` evaluate to? Explain your answer
 c) Try to summarise the main difference between `logSum` and `calculateSum`
 
-
+a) 42  calculateSum() function requires us to console.log the result.
+b) 42 the logSum() will log the answer automatically
+c) different functions detailed above.
 {YOUR ANSWERS HERE}
