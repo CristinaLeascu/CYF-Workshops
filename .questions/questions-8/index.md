@@ -10,7 +10,9 @@ If some parts of the code are unfamiliar, then look them up on MDN.
 Write your prediction below:
 
 {YOUR PREDICTION HERE}
+o
 
 Once you've written your prediction, then commit your work. Now actually run `0.js` using node and write your answer below:
 
 {ACTUAL OBSERVED BEHAVIOUR}
+10
